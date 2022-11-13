@@ -13,3 +13,6 @@ Skills: HTML / CSS / JS / React / Vue / TypeScript / Node / Jest
 ## Contact
 
 [My website](https://furkanmutlu.com/) / [Twitter](https://twitter.com/furkanmutluu) / [LinkedIn](https://www.linkedin.com/in/furkan-mutlu/) / [Stackoverflow](https://stackoverflow.com/users/10797632/furkan-mutlu)
+
+## CV
+[Furkan Mutlu](https://www.furkanmutlu.com/Furkan-Mutlu-CV.pdf)
