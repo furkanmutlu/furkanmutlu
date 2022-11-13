@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Furkan
+## Hi there 👋, I'm Furkan
 #### I am Software Engineer who is interested in continuing skills development in JavaScript.
 I am most comfortable working with JavaScript, React, Vue and TypeScript, however, I am open to working with other frameworks and technologies.
 
@@ -10,6 +10,6 @@ Skills: HTML / CSS / JS / React / Vue / TypeScript / Node / Jest
 - 🤔 I’m looking for help with open source projects 
 - 📫 How to reach me: Feel free to say 'Hi or Merhaba', just by writing me a tweet or sending an email 
 
+## Contact
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/furkanmutlu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/furkan-mutlu//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/furkanmutluu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/10797632/furkan-mutlu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://furkanmutlu.com/)  
-
+[My website](https://furkanmutlu.com/) / [Twitter](https://twitter.com/furkanmutluu) / [LinkedIn](https://www.linkedin.com/in/furkan-mutlu/) / [Stackoverflow](https://stackoverflow.com/users/10797632/furkan-mutlu)
