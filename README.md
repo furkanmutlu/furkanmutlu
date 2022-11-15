@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Furkan
-#### I am Software Engineer who is interested in continuing skills development in JavaScript.
+I am Software Engineer who is interested in continuing skills development in JavaScript.
 I am most comfortable working with JavaScript, React, Vue and TypeScript, however, I am open to working with other frameworks and technologies.
 
 I value an opportunity where I can contribute to a team. I am best suited to an opportunity where I am able to collaborate with my peers.
