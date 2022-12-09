@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Furkan
+## Hi there 👋, <br> I'm Furkan
 I am a Software Engineer who is interested in continuing skills development in JavaScript.
 I am most comfortable working with JavaScript, React, Vue and TypeScript, Node however, I am open to working with other frameworks and technologies.
 
