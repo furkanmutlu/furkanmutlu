@@ -8,7 +8,7 @@ Skills: HTML / CSS / JS / React / Vue / TypeScript / Node / Jest
 
 - 🔭 I’m currently working at TomTom.
 - 🤔 I’m looking for help with open source projects 
-- 📫 How to reach me: Feel free to say 'Hi or Merhaba', just by writing me a tweet or sending an email!
+- 📫 How to reach me: Feel free to say 'Hi' or 'Merhaba', just by writing me a tweet or sending an email!
 
 ## Contact
 
